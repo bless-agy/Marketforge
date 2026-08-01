@@ -1,0 +1,6 @@
+{
+  "name": "MarketForge",
+  "description": "Professional B2B marketplace platform with product discovery, filters, detailed views, shopping cart, and seller management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
